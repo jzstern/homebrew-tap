@@ -10,11 +10,11 @@ brew install jzstern/tap/<formula>
 
 ## Formulae
 
-### [toaiff](https://github.com/jzstern/toaiff)
+### [decant](https://github.com/jzstern/decant)
 
-Convert lossless audio to AIFF on macOS without quality loss — a Finder
-right-click Quick Action plus a CLI.
+Convert audio on macOS without quality loss — lossless to AIFF, lossy
+`.m4a`/`.opus` to CDJ-ready MP3. A Finder right-click Quick Action plus a CLI.
 
 ```sh
-brew install jzstern/tap/toaiff
+brew install jzstern/tap/decant
 ```
