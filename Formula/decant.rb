@@ -6,7 +6,7 @@ class Decant < Formula
   license "MIT"
 
   depends_on "ffmpeg"
-  depends_on :macos
+  depends_on macos: :ventura
 
   def install
     bin.install "bin/decant"

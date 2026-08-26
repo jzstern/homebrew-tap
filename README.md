@@ -15,6 +15,10 @@ brew install jzstern/tap/<formula>
 Convert audio on macOS without quality loss — lossless to AIFF, lossy
 `.m4a`/`.opus` to CDJ-ready MP3. A Finder right-click Quick Action plus a CLI.
 
+Requires macOS 13 (Ventura) or later.
+
 ```sh
 brew install jzstern/tap/decant
 ```
+
+Previously published as `toaiff`; existing installs migrate automatically.
